@@ -1,7 +1,4 @@
-```
-Regular Expression Engine
-```
-
+##Regular Expression Engine
 
 **Introduction**
 It is basically a “Regular Expression Engine.” The engine will be used for
@@ -10,7 +7,7 @@ two inputs: a regular expression and a text file. As output, program will print 
 text file which contain strings that match the given regular expression.
 
 - The alphabet, Σ, will consists of all printable ASCII characters except the metacharacters.
-    Metacharacters are: (, ), |, *, and &.
+Metacharacters are: (, ), |, *, and &.
 - We will omit the symbol ‘o’ in writing regular expressions. That is, instead of _R 1_ o _R 2_ , we will
     simply write _R 1 R 2_.
 - The textbook uses the symbol “ ” to denote the union operator. Since this symbol is a non-⋃
